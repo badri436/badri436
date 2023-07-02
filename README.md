@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @badri436
-- 👀 I’m interested in coding as backend developer
-- 🌱 I’m currently learning nodejs in deep
+- 👀 Trying to grab new technologies with quality understanding of logics
+- 🌱 I’m currently in the phase of learning
 - 💞️ I’m looking to collaborate on undertaking real-time projects
 - 📫 Reach me through mobile number:9080134802
 
